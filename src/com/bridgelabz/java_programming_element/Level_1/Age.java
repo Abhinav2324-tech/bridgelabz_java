@@ -1,0 +1,10 @@
+package com.bridgelabz.java_programming_element.Level_1;
+
+public class Age {
+    public static void main(String[] args){
+        int birthYear=2000;
+        int currentYear=2024;
+        int age=(currentYear-birthYear);
+        System.out.println("Harry's age is:"+age);
+    }
+}
