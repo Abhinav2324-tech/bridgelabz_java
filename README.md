@@ -7,3 +7,4 @@
 | 14-08-2026 | Completed, Level_2 problems from java programming elements,Level_1 and Level_2 problems from java control flows, understood JVM Architecture | None |
 | 15-08-2026 | Completed all the Level_1 and Level_2 and problems from java control flows. | None |
 | 17-08-2026 | Understood about Arrays (Single as well as Multi Dimensional), Copying Arrays (ArrayCopy()), Completed Level_3 problems of java control flows and all the Level_1 and Level_2 problems of java arrays. | Difficulty with Multi-Dimensional Arrays. |
+| 18-08-2026 | Understood about java methods and completed Level_1 and Level_2 problems of java methods. | None |
