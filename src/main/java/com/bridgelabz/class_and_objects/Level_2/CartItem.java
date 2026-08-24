@@ -1,4 +1,4 @@
-package com.bridgelabz.oops_concept.class_and_objects.Level_2;
+package com.bridgelabz.class_and_objects.Level_2;
 /*
 This program creates a CartItem class with item name, price,
 and quantity. It allows items to be added or removed

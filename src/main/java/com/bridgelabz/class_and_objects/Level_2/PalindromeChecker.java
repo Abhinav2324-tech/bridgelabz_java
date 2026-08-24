@@ -1,4 +1,4 @@
-package com.bridgelabz.oops_concept.class_and_objects.Level_2;
+package com.bridgelabz.class_and_objects.Level_2;
 /*
 This program creates a PalindromeChecker class with text as an attribute.
 It checks whether the given text is a palindrome and displays

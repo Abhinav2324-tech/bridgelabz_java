@@ -1,4 +1,4 @@
-package com.bridgelabz.oops_concept.class_and_objects.Level_2;
+package com.bridgelabz.class_and_objects.Level_2;
 import java.util.Scanner;
 
 public class BankAccount {

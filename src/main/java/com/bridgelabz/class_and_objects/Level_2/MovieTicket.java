@@ -1,4 +1,4 @@
-package com.bridgelabz.oops_concept.class_and_objects.Level_2;
+package com.bridgelabz.class_and_objects.Level_2;
 /*
 This program creates a MovieTicket class with movie name,
 seat number, and price. It allows the user to book a ticket
