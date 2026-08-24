@@ -9,3 +9,4 @@
 | 17-08-2026 | Understood about Arrays (Single as well as Multi Dimensional), Copying Arrays (ArrayCopy()), Completed Level_3 problems of java control flows and all the Level_1 and Level_2 problems of java arrays. | Difficulty with Multi-Dimensional Arrays. |
 | 18-08-2026 | Understood about java methods and completed Level_1 and Level_2 problems of java methods. | None |
 | 19-08-2026 | Completed Level_3 problems of java methods. Understood and implemented all problems from java strings. Finished all the assignment submissions of week 1. | Exception Handling in String |
+| 22-08-2026 | Understood and Implemented Level_1 and Level_2 problems of class and objects of oops concepts from  week 2. | None |
