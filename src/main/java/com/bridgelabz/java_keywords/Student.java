@@ -1,4 +1,4 @@
-package com.bridgelabz.java_keywords.Level_1;
+package com.bridgelabz.java_keywords;
 /*
 This program creates a Student class to demonstrate static, this,
 final, and instanceof. The universityName and totalStudents are shared

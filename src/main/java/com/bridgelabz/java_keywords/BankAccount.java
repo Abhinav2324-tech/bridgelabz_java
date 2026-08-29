@@ -1,4 +1,4 @@
-package com.bridgelabz.java_keywords.Level_1;
+package com.bridgelabz.java_keywords;
 import java.util.Scanner;
 
 class BankAccount {

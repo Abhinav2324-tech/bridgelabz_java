@@ -1,4 +1,4 @@
-package com.bridgelabz.java_keywords.Level_1;
+package com.bridgelabz.java_keywords;
 
 /*
 This program creates a Product class to demonstrate static, this,

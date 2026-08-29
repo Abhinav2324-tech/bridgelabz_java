@@ -1,5 +1,4 @@
-package com.bridgelabz.java_keywords.Level_1;
-import javax.swing.plaf.synth.SynthOptionPaneUI;
+package com.bridgelabz.java_keywords;
 import java.util.Scanner;
 
 public class Book {
