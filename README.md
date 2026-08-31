@@ -16,3 +16,4 @@
 | 27-08-2026 | Completed all the problems from object modelling assignment. | Difficulty in understanding different types of relationships. |
 | 28-08-2026 | Understood different types of inheritance in java. | None |
 | 29-08-2026 | Implemented all the assigned problems from inheritance assignment. | None |
+| 31-08-2026 | Understood abstraction, inheritance, polymorphism and encapsulation. Solved all the given assignment problems. | None |
