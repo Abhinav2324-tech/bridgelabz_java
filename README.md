@@ -12,3 +12,7 @@
 | 22-08-2026 | Understood and Implemented Level_1 and Level_2 problems of class and objects of oops concepts from  week 2. | None |
 | 24-08-2026 | Completed with Level_1 problems of java constructors. | None |
 | 25-08-2026 | Completed with Constructors assignment, understood and implemented problems from this, static and final keywords assignment. | Instance of |
+| 26-08-2026 | Understood object diagram, class diagram and sequence diagram. Implemented few problems from the same. | None |
+| 27-08-2026 | Completed all the problems from object modelling assignment. | Difficulty in understanding different types of relationships. |
+| 28-08-2026 | Understood different types of inheritance in java. | None |
+| 29-08-2026 | Implemented all the assigned problems from inheritance assignment. | None |
