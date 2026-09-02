@@ -18,3 +18,4 @@
 | 29-08-2026 | Implemented all the assigned problems from inheritance assignment. | None |
 | 31-08-2026 | Understood abstraction, inheritance, polymorphism and encapsulation. Solved all the given assignment problems. | None |
 | 01-09-2026 | Understood and implemented Factory Robot Hazard Analyzer System application. Pushed the same onto github, completed all the pending assignments and submitted in google classroom. | None |
+| 02-09-2026 | Learned about single, double and circular linked list. | None |
