@@ -1,5 +1,4 @@
 package com.bridgelabz.java_methods.Level_3;
-import java.util.Scanner;
 
 public class FootballTeam {
     public int findSum(int[] heights) {

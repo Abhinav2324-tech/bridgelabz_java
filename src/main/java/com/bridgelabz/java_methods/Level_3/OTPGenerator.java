@@ -1,5 +1,5 @@
 package com.bridgelabz.java_methods.Level_3;
-import java.util.Scanner;
+
 /*
  * This program generates a six-digit OTP using Math.random().
  * It generates and stores 10 OTP numbers in an array.
