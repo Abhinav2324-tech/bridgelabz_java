@@ -20,4 +20,13 @@
 | 01-09-2026 | Understood and implemented Factory Robot Hazard Analyzer System application. Pushed the same onto github, completed all the pending assignments and submitted in google classroom. | None |
 | 02-09-2026 | Learned about single, doubly and circular linked list. | None |
 | 03-09-2026 | Learned about OOPS concepts in depth and practiced problems on the 4 pillars of OOPS. | Object Modelling |
-| 05-09-2026 | Implemented single, doubly and circular linked list. Completed the assignment based on the same. | None |
+| 05-09-2026 | Implemented single, doubly linked list. Completed the assignment based on the same. | None |
+| 07-09-2026 | Implemented and understood circular linked list. | None |
+| 08-09-2026 | Studied in depth about stacks and queues. | None |
+| 09-09-2026 | Implemented questions on stacks. | None |
+| 10-09-2026 | Implemented questions on queues. | None |
+| 11-09-2020 | Understood and practiced how to find the time and space complexity for a particular problem. | None |
+| 12-09-2026 | Completed all the pending assignment tasks. | None |
+| 15-09-2026 | Understood and implemented all the searching and sorting algorithms. | None |
+| 16-09-2026 | Studied hashmap theory in depth. | None |
+| 17-09-2026 | Studied the overview of trees and graphs. | None |
