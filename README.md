@@ -30,3 +30,5 @@
 | 15-09-2026 | Understood and implemented all the searching and sorting algorithms. | None |
 | 16-09-2026 | Studied hashmap theory in depth. | None |
 | 17-09-2026 | Studied the overview of trees and graphs. | None |
+| 18-09-2026 | Understood about generics, type parameters, generic classes and generic methods. | None |
+| 19-09-2026 | Understood about bound type parameters and wildcards. | None |
