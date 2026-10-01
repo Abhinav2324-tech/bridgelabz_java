@@ -33,3 +33,4 @@
 | 18-09-2026 | Understood about generics, type parameters, generic classes and generic methods. | None |
 | 19-09-2026 | Understood about bound type parameters and wildcards. | None |
 | 21-09-2026 | Understood about collection framework hierarchy and the subclasses of collection interface. | None |
+| 22-09-2026 | Understood and implemented problems on list covering arraylist and linkedlist. | None |
