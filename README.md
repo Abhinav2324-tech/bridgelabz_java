@@ -38,3 +38,4 @@
 | 24-09-2026 | Understood about hashmap and its internal working, implemented problems on hashmap. | None |
 | 25-09-2026 | Understood about queue interface and implemented logical problems. | None |
 | 26-09-2026 | Understood about IO stream and the different byte classes and reader classes. | None | 
+| 28-09-2026 | Understood about exception handling and implemented problems on the same. | None |
