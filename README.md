@@ -40,3 +40,4 @@
 | 26-09-2026 | Understood about IO stream and the different byte classes and reader classes. | None | 
 | 28-09-2026 | Understood about exception handling and implemented problems on the same. | None |
 | 29-09-2026 | Understood and implemented regex. Practiced various patterns. | None |
+| 30-09-2026 | Understood about JUnit and implemented and practiced writing different type of test cases. | None |
