@@ -36,3 +36,4 @@
 | 22-09-2026 | Understood and implemented problems on list covering arraylist and linkedlist. | None |
 | 23-09-2026 | Understood and implemented problems on Set interface. | None |
 | 24-09-2026 | Understood about hashmap and its internal working, implemented problems on hashmap. | None |
+| 25-09-2026 | Understood about queue interface and implemented logical problems. | None |
