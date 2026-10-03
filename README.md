@@ -42,3 +42,4 @@
 | 29-09-2026 | Understood and implemented regex. Practiced various patterns. | None |
 | 30-09-2026 | Understood about JUnit and implemented and practiced writing different type of test cases. | None |
 | 01-10-2026 | Understood about TDD concept. | None |
+| 03-10-2026 | Studied and understood various design patterns. | None |
